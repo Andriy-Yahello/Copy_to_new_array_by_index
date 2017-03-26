@@ -1,0 +1,11 @@
+d:\app\ReverseIndex\ReverseIndex\bin\Debug\ReverseIndex.exe.config
+d:\app\ReverseIndex\ReverseIndex\bin\Debug\ReverseIndex.exe
+d:\app\ReverseIndex\ReverseIndex\bin\Debug\ReverseIndex.pdb
+d:\app\ReverseIndex\ReverseIndex\obj\Debug\ReverseIndex.exe
+d:\app\ReverseIndex\ReverseIndex\obj\Debug\ReverseIndex.pdb
+C:\app\ReverseIndex\ReverseIndex\bin\Debug\ReverseIndex.exe.config
+C:\app\ReverseIndex\ReverseIndex\obj\Debug\ReverseIndex.exe
+C:\app\ReverseIndex\ReverseIndex\obj\Debug\ReverseIndex.pdb
+C:\app\ReverseIndex\ReverseIndex\bin\Debug\ReverseIndex.exe
+C:\app\ReverseIndex\ReverseIndex\bin\Debug\ReverseIndex.pdb
+C:\app\ReverseIndex\ReverseIndex\obj\Debug\ReverseIndex.csprojResolveAssemblyReference.cache
